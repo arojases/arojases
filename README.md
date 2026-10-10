@@ -54,11 +54,11 @@ Building practical web applications, learning continuously, and turning ideas in
 
 | Project | Description | Repository |
 | --- | --- | --- |
-| **CashBoard Family** | Personal and family finance management application. | [View code](https://github.com/arojases/CashBoard-Family) |
-| **PokeCounter** | A Pokémon matchup and counter-finding project. | [View code](https://github.com/arojases/PokeCounter) |
+| **CashBoard Family** | Angular + ASP.NET Core finance app with JWT, family roles, budgets, savings goals, and debts. | [View code](https://github.com/arojases/CashBoard-Family) |
+| **PokeCounter** | Angular + TypeScript tool that ranks Pokémon counters using PokéAPI, type effectiveness, and base stats. | [View code](https://github.com/arojases/PokeCounter) |
 | **Developer Portfolio** | My personal portfolio showcasing projects and skills. | [View website](https://arojases.github.io/Portafolio/) · [Code](https://github.com/arojases/Portafolio) |
-| **Contact Management** | Contact management web project using Django. | [View code](https://github.com/arojases/Gestion-de-contactos--django---bootstrap---sqlite-) |
-| **CSE325 Project** | Coursework project focused on ASP.NET Core development. | [View code](https://github.com/arojases/CSE325_Project) |
+| **Contact Management** | Django + Bootstrap contact CRUD with search, pagination, avatars, and validation. | [View code](https://github.com/arojases/Gestion-de-contactos--django---bootstrap---sqlite-) |
+| **CSE325 Project** | ASP.NET Core 10 coursework: movie CRUD with MVC, Razor Pages, EF Core, and SQLite. | [View code](https://github.com/arojases/CSE325_Project) |
 
 ## 📊 GitHub Activity
 
