@@ -24,9 +24,9 @@ Esta lista organiza el plan recuperado de la conversación. Las tareas semanales
 | 4 | Actualizar funcionalidades y roadmap de CashBoard | Hecho |
 | 5 | Revisar documentación del gestor de contactos | Hecho |
 | 6 | Documentar estructura y ejecución de CSE325 | Hecho |
-| 7 | Fijar los cinco repositorios destacados en el perfil | Pendiente |
-| 8 | Ejecutar PokeCounter y capturar búsqueda y counters | Pendiente |
-| 9 | Agregar capturas reales al README de PokeCounter | Pendiente |
+| 7 | Fijar los cinco repositorios destacados en el perfil | Confirmado por Ariel |
+| 8 | Ejecutar PokeCounter y capturar búsqueda y counters | Hecho: captura aportada por Ariel |
+| 9 | Agregar capturas reales al README de PokeCounter | Hecho |
 | 10 | Ejecutar CashBoard con cuentas locales y comprobar roles | Pendiente |
 | 11 | Agregar capturas de CashBoard sin datos personales | Pendiente |
 | 12 | Comprobar demo del gestor de contactos y agregar captura | Pendiente |
