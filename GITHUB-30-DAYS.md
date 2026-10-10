@@ -28,7 +28,7 @@ Esta lista organiza el plan recuperado de la conversación. Las tareas semanales
 | 8 | Ejecutar PokeCounter y capturar búsqueda y counters | Hecho: captura aportada por Ariel |
 | 9 | Agregar capturas reales al README de PokeCounter | Hecho |
 | 10 | Ejecutar CashBoard con cuentas locales y comprobar roles | Pendiente |
-| 11 | Agregar capturas de CashBoard sin datos personales | Pendiente |
+| 11 | Agregar capturas de CashBoard sin datos personales | Hecho: captura aportada por Ariel |
 | 12 | Comprobar demo del gestor de contactos y agregar captura | Pendiente |
 | 13 | Capturar portafolio en escritorio y móvil | Pendiente |
 | 14 | Compartir un avance técnico en LinkedIn | Pendiente |
