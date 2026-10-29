@@ -55,7 +55,7 @@ Building practical web applications, learning continuously, and turning ideas in
 | Project | Description | Repository |
 | --- | --- | --- |
 | **CashBoard Family** | Angular + ASP.NET Core finance app with JWT, family roles, budgets, savings goals, and debts. | [View code](https://github.com/arojases/CashBoard-Family) |
-| **PokeCounter** | Angular + TypeScript tool that ranks Pokémon counters using PokéAPI, type effectiveness, and base stats. | [View code](https://github.com/arojases/PokeCounter) |
+| **IT Incident Manager** | Python + Flask application for IT incident reports, PDF attachments, status tracking, change history, and user permissions. Built from a workplace need, with an interactive demo using fictional data. | [View code](https://github.com/arojases/Gestion-de-Incidentes) · [Demo](https://arojases.github.io/Gestion-de-Incidentes/) |
 | **Developer Portfolio** | My personal portfolio showcasing projects and skills. | [View website](https://arojases.github.io/Portafolio/) · [Code](https://github.com/arojases/Portafolio) |
 | **Contact Management** | Django + Bootstrap contact CRUD with search, pagination, avatars, and validation. | [View code](https://github.com/arojases/Gestion-de-contactos--django---bootstrap---sqlite-) |
 | **CSE325 Project** | ASP.NET Core 10 coursework: movie CRUD with MVC, Razor Pages, EF Core, and SQLite. | [View code](https://github.com/arojases/CSE325_Project) |
